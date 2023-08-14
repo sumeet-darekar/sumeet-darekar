@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="c++" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" height="45" width="45"/>          
-![4691397_postman_icon(2)](https://github.com/sumeet-darekar/sumeet-darekar/assets/79735377/d8a495b5-2551-4151-8e34-299444fb0eee)
+<img src="https://github.com/sumeet-darekar/sumeet-darekar/assets/79735377/d8a495b5-2551-4151-8e34-299444fb0eee" alt="postman" height="45" width="45"/>
